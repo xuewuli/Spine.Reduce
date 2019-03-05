@@ -1,0 +1,11 @@
+{
+  "name": "spin_compress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js ./boy/boy.json > ./boy/boy_c.json"
+  },
+  "author": "",
+  "license": "MIT"
+}
