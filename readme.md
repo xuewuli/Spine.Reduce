@@ -6,7 +6,7 @@
 ### 用法
     node index.js input.json > output.json
 
-对比数据
+### 对比数据
 
 | spine | 压缩前 | 压缩后 | 比例 |
 | ------ | ------ | ------ | ------ |
